@@ -9,7 +9,7 @@ Write your code in this editor and press "Run" button to execute it.
 import java.io.*;
 import java.util.*;
 public class Gcdarray {
-    static int gcd(int a, int b)
+    static int gcd(int a, int  b)
     {
         if (b == 0)
             return a;
